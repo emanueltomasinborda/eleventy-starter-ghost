@@ -7,5 +7,5 @@
   
   # These rules will change if you change your site’s custom domains or HTTPS settings
 
-# Redirect default Netlify subdomain to primary domain
+Redirect default Netlify subdomain to primary domain
 https://blissful-archimedes-cc07d9.netlify.com/* https://noche.eu.org/:splat 301!
